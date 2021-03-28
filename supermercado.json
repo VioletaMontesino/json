@@ -1,0 +1,273 @@
+
+{
+  "carrefour": [
+    {
+      "direccion": {
+        "calle": "De la Montera",
+        "numero": 12,
+        "poblacion": "Madrid",
+        "cp": 20147,
+        "geolocalizacion": {
+          "latitud": "40.4439512",
+          "longitud": "-3.670324"
+        }
+      },
+      "ofertas": {
+        "tomateFrito": {
+          "precio": 1.25,
+          "caducidad": "06-12-2021",
+          "cantidad": 3,
+          "tipoMedida": "ud",
+          "adquirido": false
+        },
+        "garbanzos": {
+          "precio": 0.69,
+          "caducidad": "03-11-2021",
+          "cantidad": 1,
+          "tipoMedida": "kg",
+          "adquirido": true
+        },
+        "aceite": {
+          "precio": 3.45,
+          "caducidad": "16-09-2023",
+          "cantidad": 1,
+          "tipoMedida": "lt",
+          "adquirido": true
+        }
+      },
+      "secciones": [
+        {
+          "fruteria": [
+            {
+              "peras": {
+                "precio": 4.15,
+                "caducidad": "12-05-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": true
+              },
+              "manzanas": {
+                "precio": 3.5,
+                "caducidad": "14-06-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": false
+              },
+              "naranjas": {
+                "precio": 8.1,
+                "caducidad": "11-06-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": true
+              }
+            }
+          ],
+          "carniceria": {
+            "pechugas": {
+              "precio": 4.26,
+              "caducidad": "11-06-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            },
+            "ternera": {
+              "precio": 6.12,
+              "caducidad": "19-05-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            },
+            "salchichas": {
+              "precio": 2.5,
+              "caducidad": "26-07-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            }
+          },
+          "pescaderia": {
+            "dorada": {
+              "precio": 8.13,
+              "caducidad": "11-08-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            },
+            "merluza": {
+              "precio": 2.15,
+              "caducidad": "10-05-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            },
+            "mejillones": {
+              "precio": 6.1,
+              "caducidad": "01-05-2021",
+              "cantidad": 12,
+              "tipoMedida": "ud",
+              "adquirido": true
+            }
+          },
+          "panaderia": {
+            "croissants": {
+              "precio": 3.45,
+              "caducidad": "18-08-2021",
+              "cantidad": 12,
+              "tipoMedida": "ud",
+              "adquirido": true
+            },
+            "magdalenas": {
+              "precio": 3.6,
+              "caducidad": "30-07-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            },
+            "baguette": {
+              "precio": 0.45,
+              "caducidad": "01-04-2021",
+              "cantidad": 1,
+              "tipoMedida": "ud",
+              "adquirido": true
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "mercadona": [
+    {
+      "direccion": {
+        "calle": "Acacias",
+        "numero": 23,
+        "poblacion": "Madrid",
+        "cp": 20022,
+        "geolocalizacion": {
+          "latitud": "40.4465412",
+          "longitud": "-3.542324"
+        }
+      },
+      "ofertas": {
+        "tomate": {
+          "precio": 1.1,
+          "caducidad": "08-12-2021",
+          "cantidad": 3,
+          "tipoMedida": "ud",
+          "adquirido": true
+        },
+        "garbanzos": {
+          "precio": 0.63,
+          "caducidad": "04-11-2021",
+          "cantidad": 1,
+          "tipoMedida": "kg",
+          "adquirido": true
+        },
+        "aceite": {
+          "precio": 3.6,
+          "caducidad": "18-09-2023",
+          "cantidad": 1,
+          "tipoMedida": "lt",
+          "adquirido": false
+        }
+      },
+      "secciones": [
+        {
+          "fruteria": [
+            {
+              "peras": {
+                "precio": 4.3,
+                "caducidad": "15-05-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": false
+              },
+              "manzanas": {
+                "precio": 3.25,
+                "caducidad": "14-06-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": true
+              },
+              "naranjas": {
+                "precio": 8.12,
+                "caducidad": "12-06-2021",
+                "cantidad": 1,
+                "tipoMedida": "kg",
+                "adquirido": false
+              }
+            }
+          ],
+          "carniceria": {
+            "pechugas": {
+              "precio": 4.2,
+              "caducidad": "18-06-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            },
+            "ternera": {
+              "precio": 7.6,
+              "caducidad": "12-05-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            },
+            "salchichas": {
+              "precio": 2.8,
+              "caducidad": "23-07-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            }
+          },
+          "pescaderia": {
+            "dorada": {
+              "precio": 8.03,
+              "caducidad": "13-08-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            },
+            "merluza": {
+              "precio": 2.25,
+              "caducidad": "18-05-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": false
+            },
+            "mejillones": {
+              "precio": 6.12,
+              "caducidad": "01-05-2021",
+              "cantidad": 12,
+              "tipoMedida": "ud",
+              "adquirido": false
+            }
+          },
+          "panaderia": {
+            "croissants": {
+              "precio": 3.48,
+              "caducidad": "16-08-2021",
+              "cantidad": 12,
+              "tipoMedida": "ud",
+              "adquirido": true
+            },
+            "magdalenas": {
+              "precio": 3.2,
+              "caducidad": "05-07-2021",
+              "cantidad": 1,
+              "tipoMedida": "kg",
+              "adquirido": true
+            },
+            "baguette": {
+              "precio": 0.63,
+              "caducidad": "22-04-2021",
+              "cantidad": 1,
+              "tipoMedida": "ud",
+              "adquirido": false
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
